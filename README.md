@@ -7,6 +7,7 @@ RegisterWaitForSingleObject 추가
 
 // 그냥. push pop... ㅡ_ㅡ;;
 
+<pre>
 // 이벤트 스케줄러
 대기 = 미래의 기록
 transaction push pop
@@ -18,7 +19,4 @@ B가 대기중
 // 실행
 읽기
 읽기
-
-
-
-
+</pre>
